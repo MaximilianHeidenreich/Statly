@@ -14,38 +14,38 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/MaximilianHeidenreich/SyncBoard.svg?style=flat-square
-[contributors-url]: https://github.com/MaximilianHeidenreich/SyncBoard/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/MaximilianHeidenreich/SyncBoard?style=flat-square
-[forks-url]: https://github.com/MaximilianHeidenreich/SyncBoard/network
-[stars-shield]: https://img.shields.io/github/stars/MaximilianHeidenreich/SyncBoard?style=flat-square
-[stars-url]: https://github.com/MaximilianHeidenreich/SyncBoard/stargazers
-[issues-shield]: https://img.shields.io/github/issues/MaximilianHeidenreich/SyncBoard?style=flat-square
-[issues-url]: https://github.com/MaximilianHeidenreich/SyncBoard/issues
-[license-shield]: https://img.shields.io/github/license/MaximilianHeidenreich/SyncBoard?style=flat-square
-[license-url]: https://github.com/MaximilianHeidenreich/SyncBoard/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/MaximilianHeidenreich/Statly.svg?style=flat-square
+[contributors-url]: https://github.com/MaximilianHeidenreich/Statly/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/MaximilianHeidenreich/Statly?style=flat-square
+[forks-url]: https://github.com/MaximilianHeidenreich/Statly/network
+[stars-shield]: https://img.shields.io/github/stars/MaximilianHeidenreich/Statly?style=flat-square
+[stars-url]: https://github.com/MaximilianHeidenreich/Statly/stargazers
+[issues-shield]: https://img.shields.io/github/issues/MaximilianHeidenreich/Statly?style=flat-square
+[issues-url]: https://github.com/MaximilianHeidenreich/Statly/issues
+[license-shield]: https://img.shields.io/github/license/MaximilianHeidenreich/Statly?style=flat-square
+[license-url]: https://github.com/MaximilianHeidenreich/Statly/blob/master/LICENSE
 
 <!-- PROJECT HEADER -->
 <br />
 <p align="center">
-  <a href="https://github.com/MaximilianHeidenreich/SyncBoard">
-    <img src="https://github.com/MaximilianHeidenreich/SyncBoard/blob/master/static/Icon-128.png?raw=true" alt="Project Logo" >
+  <a href="https://github.com/MaximilianHeidenreich/Statly">
+    <img src="https://github.com/MaximilianHeidenreich/Statly/blob/master/static/Icon-128.png?raw=true" alt="Project Logo" >
   </a>
 
-  <h2 align="center">SyncBoard</h2>
+  <h2 align="center">Statly</h2>
 
   <p align="center">
-    A synchonized peer to peer board with checkable items.
+    A peer-2-peer data collaboration tool.
     <br>
     <br />
     <a href="#"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/MaximilianHeidenreich/SyncBoard/issues">Report Bug</a>
+    <a href="https://github.com/MaximilianHeidenreich/Statly/issues">Report Bug</a>
     ·
-    <a href="https://github.com/MaximilianHeidenreich/SyncBoard/issues">Request Feature</a>
+    <a href="https://github.com/MaximilianHeidenreich/Statly/issues">Request Feature</a>
     ·
-    <a href="https://syncboard.maximilian-heidenreich.de">Live Demo</a>
+    <a href="https://statly.maximilian-heidenreich.de">Live Demo</a>
   </p>
 </p>
 
@@ -55,17 +55,13 @@
 - [Table of Contents](#table-of-contents)
 - [About The Project](#about-the-project)
 - [Usage](#usage)
-    - [Create a new board](#create-a-new-board)
-    - [Join a board](#join-a-board)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-I created this project because I needed something to test WebRTC and Svelt on. This project was inspired by the board I noticed in [this video](https://www.youtube.com/watch?v=58AmCK-EZ50&t=325s).
-Basically, its just a collection of big checkbox buttons which is shared between two peers.
-If one peer checks a button, it won't be clickably by anyone else and it is possible to distinguish buttons that you and others have clicked.
+TODO
 
 <br>
 
@@ -83,14 +79,7 @@ TODO:
 <!-- USAGE -->
 ## Usage
 
-#### Create a new board
-> Just click the *'Start a new board'* button, add your tasks and share the url with someone else
-> 
-> Click on a task to mark it as completed.
-
-#### Join a board
-
-> Either open the url someone shared with you or enter the alpha-numerical id into the *'Board ID'* field and press the *'Join existing room'* button.
+TODO
 
 
 <!-- CONTRIBUTING -->
@@ -111,8 +100,8 @@ If you do so, please follow these steps:
 
 Maximilian Heidenreich - github@maximilian-heidenreich.de
 
-Project Link: [https://github.com/MaximilianHeidenreich/SyncBoard](https://github.com/MaximilianHeidenreich/SyncBoard)
+Project Link: [https://github.com/MaximilianHeidenreich/Statly](https://github.com/MaximilianHeidenreich/Statly)
 
-Project Icon: [https://github.com/MaximilianHeidenreich/SyncBoard/blob/master/static/Icon-1024.png](https://github.com/MaximilianHeidenreich/SyncBoard/blob/master/static/Icon-1024.png)
+Project Icon: [https://github.com/MaximilianHeidenreich/Statly/blob/master/static/Icon-1024.png](https://github.com/MaximilianHeidenreich/Statly/blob/master/static/Icon-1024.png)
 
 <a href="https://www.buymeacoffee.com/maximili"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=maximili&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
